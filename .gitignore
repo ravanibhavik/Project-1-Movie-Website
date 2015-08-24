@@ -1,0 +1,14 @@
+# gitignore
+
+*.pyc
+*.zip
+*.html
+buildinfunc.py
+prank/
+profanity_check.py
+quiz_rename.py
+rename.py
+send_twilio.py
+turtle_example.py
+turtle_miniproject.py
+
